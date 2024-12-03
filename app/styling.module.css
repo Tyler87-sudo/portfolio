@@ -1,0 +1,17 @@
+/* app/styling.module.css */
+.buttonStyling {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.headerStyling {
+  z-index: 1; color: #ffffffc4; background-color: #DEA82B; position: relative; border-bottom-left-radius: 10%; border-bottom-right-radius: 10%
+}
+
+.headerNavStyling {
+  border: 0px; color:#ffffffc4; background: radial-gradient(circle, rgba(143,113,44,1) 0%, rgba(172,133,40,1) 50%, rgba(222,168,43,1) 100%)
+}
